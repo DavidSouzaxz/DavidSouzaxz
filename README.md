@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dvd-coder-art/Dvd-coder-art/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dvd-coder-art/Dvd-coder-art/ci.yml" alt="Snake animation" />
 
 ###
 
