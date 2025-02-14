@@ -49,7 +49,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/david-souza-7b2x17">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a> 
   <a href="https://dvd-coder-art.github.io/Portf-lio/#section6">
