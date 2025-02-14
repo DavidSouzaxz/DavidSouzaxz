@@ -36,14 +36,13 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"  />
 
 ###
 
-<p align="left">I'm a developer passionate about creating innovative solutions and enhancing user experiences through code. I'm always looking for new challenges to expand my knowledge and contribute to exciting projects.<br><br><br>🔧 What I'm Learning Right Now<br>Improving my knowledge of Front-End and React<br>Exploring new possibilities with Java/BootCampClaro <br>🌱 Currently Working On<br>My career, my projects and studies.</p>
+<p align="left">I'm a developer passionate about creating innovative solutions and enhancing user experiences through code. <br><br>🔧 What I'm Learning Right Now<br>Improving my knowledge of Front-End and React<br>Exploring new possibilities with Java/BootCampClaro <br>🌱 Currently Working On<br>My career, my projects and studies.</p>
 
+###
 
 <h2 align="left">Contact</h2>
 
