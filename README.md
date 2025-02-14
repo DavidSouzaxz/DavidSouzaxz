@@ -44,11 +44,6 @@
 
 <p align="left">I'm a developer passionate about creating innovative solutions and enhancing user experiences through code. I'm always looking for new challenges to expand my knowledge and contribute to exciting projects.<br><br><br>🔧 What I'm Learning Right Now<br>Improving my knowledge of Front-End and React<br>Exploring new possibilities with Java/BootCampClaro <br>🌱 Currently Working On<br>My career, my projects and studies.</p>
 
-###
-
-<img src="https://github.com/Dvd-coder-art/Dvd-coder-art/blob/main/ci.yml" alt="Snake animation" />
-
-###
 
 <h2 align="left">Contact</h2>
 
