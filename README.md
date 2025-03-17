@@ -1,10 +1,10 @@
-<h1 align="left">Hi👋, I'm  David Souza!</h1>
+<h1 align="left">Hi👋,Eu sou David Souza!</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">Technologies I use daily</h3>
+<h3 align="left">Tecnologias que uso diariamente</h3>
 
 ###
 
@@ -38,11 +38,13 @@
 
 ###
 
-<p align="left">I'm a developer passionate about creating innovative solutions and enhancing user experiences through code. <br><br>🔧 What I'm Learning Right Now<br>Improving my knowledge of Front-End and React<br>Exploring new possibilities with Java/BootCampClaro <br>🌱 Currently Working On<br>My career, my projects and studies.</p>
+<p align="left">Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprimorar a experiência do usuário por meio do código. <br><br>🔧 O que estou aprendendo no momento
+Aprimorando meus conhecimentos em Front-End e React Explorando novas possibilidades com Java/BootCampClaro <br>🌱 Trabalhando atualmente em
+Minha carreira, meus projetos e estudos.</p>
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="left">Contato</h2>
 
 ###
 
