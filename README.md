@@ -38,7 +38,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprimorar a ex
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a> 
-  <a href="https://dvd-coder-art.github.io/Portf-lio/#section6">
+  <a href="https://davidsouzaxz.github.io/Portf-lio/#section6">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -48,6 +48,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprimorar a ex
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dvd-coder-art&show_icons=true&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dvd-coder-art&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidSouzaxz&show_icons=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSouzaxz&layout=compact&theme=transparent" />
 </div>
