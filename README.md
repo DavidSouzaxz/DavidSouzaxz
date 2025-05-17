@@ -45,7 +45,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprimorar a ex
 
 
 
-  ![snake gif](https://github.com/DavidSouzaxz/DavidSouzaxz/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/DavidSouzaxz/DavidSouzaxz/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
