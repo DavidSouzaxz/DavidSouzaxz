@@ -43,6 +43,11 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprimorar a ex
   </a>
 </div>
 
+
+
+  ![snake gif](https://github.com/DavidSouzaxz/DavidSouzaxz/blob/output/github-contribution-grid-snake.svg)
+
+
 ---
 
 ## 📊 GitHub Stats
