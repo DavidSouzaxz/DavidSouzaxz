@@ -20,7 +20,7 @@
 
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprimorar a experiência do usuário por meio do código.
 
-- 🔧 O que estou aprendendo no momento: C#, Angular, React e Java (BootCamp Claro)  
+- 🔧 O que estou aprendendo no momento: C#, Angular, React e Java 
 - 🌱 Trabalhando atualmente em: minha carreira, projetos pessoais e estudos
 
 ## 🛠️ Tecnologias que uso diariamente
