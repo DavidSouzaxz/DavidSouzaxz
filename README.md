@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e aprimorar a ex
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,react,java,spring,git,mysql,python,maven,gradle,nodejs,postgres,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,typescript,angular,html,css,bitbucket,react,vite,java,cs,dotnet,spring,git,mysql,python,maven,gradle,nodejs,postgres,postman,firebase,linux,kali&perline=10" />
   </a>
 </p>
 
